@@ -1,4 +1,4 @@
-# UnityFor3DTouch
+# 3DTouch for Unity
 A plugin for Unity to support 3DTouch
 
 
